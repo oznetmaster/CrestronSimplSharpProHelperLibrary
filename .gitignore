@@ -351,3 +351,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
++# S# Files
+*.projectinfo
+SIMPLSharpLogs/
+ControlSystem.cfg
+_sgbak/
